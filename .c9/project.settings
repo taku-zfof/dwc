@@ -1,6 +1,7 @@
 {
     "ace": {
-        "@tabSize": 2
+        "@tabSize": 2,
+        "@useSoftTabs": true
     },
     "build": {
         "@saveall": true
@@ -61,10 +62,6 @@
             {
                 "name": "API_exe",
                 "path": "/API_exe"
-            },
-            {
-                "name": "Bookers2-ex",
-                "path": "/Bookers2-ex"
             },
             {
                 "name": "pagetop-lesson",
